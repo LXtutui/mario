@@ -1,0 +1,36 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border:2px double blue;
+}
+.mario{
+    width: 100%;
+}
+#jogar, #status{
+    font-size: 22px;
+    
+}
+h4{
+    background-color: aliceblue;
+    margin: 0%;
+    line-height:2;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instImg{
+    width: 45%;
+    display: inline-block;
+}
+video{
+    background: url("game_console.png");
+    background-size:cover ;
+    background-position: center;
+    padding: 25px;
+}
